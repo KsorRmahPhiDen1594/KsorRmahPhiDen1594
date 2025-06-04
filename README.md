@@ -9,13 +9,14 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me## Contact  
 
-- 🌐 Facebook: [cu.en.135449](https://www.facebook.com/cu.en.135449/)
-- 💻 GitHub: [KsorRmahPhiDen1594](https://github.com/KsorRmahPhiDen1594)
-- 💻 GitLab: [phiden1594](https://gitlab.com/phiden1594)
+- 📫 Email: phiden1594@gmail.com  
+- 📞 Phone: +84 123 456 789  
+- 🌐 Facebook: [cu.en.135449](https://www.facebook.com/cu.en.135449)  
+- 🐙 GitHub: [KsorRmahPhiDen1594](https://github.com/KsorRmahPhiDen1594)  
+- 🦊 GitLab: [phiden1594](https://gitlab.com/phiden1594)  
 - 🔗 LinkedIn: [đen-phi](https://www.linkedin.com/in/đen-phi-460966365)
-- 📧 Email: phiden1594@gmail.com
 
 ---
 
